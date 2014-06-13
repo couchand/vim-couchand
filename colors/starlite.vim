@@ -50,7 +50,7 @@ hi Type             ctermfg=63          ctermbg=NONE        cterm=NONE
 "hi Typedef          ctermfg=white       ctermbg=NONE        cterm=NONE
 
 hi Ignore           ctermfg=white       ctermbg=NONE        cterm=NONE
-hi Error            ctermfg=232         ctermbg=red         cterm=bold
+hi Error            ctermfg=232         ctermbg=197         cterm=bold
 hi Todo             ctermfg=white       ctermbg=NONE        cterm=NONE
 
 hi MatchParen       ctermfg=237         ctermbg=241         cterm=NONE
@@ -61,8 +61,8 @@ hi SpecialKey       ctermfg=white       ctermbg=NONE        cterm=NONE
 hi NonText          ctermfg=white       ctermbg=NONE        cterm=NONE
 hi Directory        ctermfg=white       ctermbg=NONE        cterm=NONE
 hi ErrorMsg         ctermfg=white       ctermbg=NONE        cterm=NONE
-hi IncSearch        ctermfg=white       ctermbg=NONE        cterm=NONE
-hi Search           ctermfg=white       ctermbg=NONE        cterm=NONE
+hi IncSearch        ctermfg=NONE        ctermbg=174         cterm=NONE
+hi Search           ctermfg=NONE        ctermbg=174         cterm=NONE
 hi MoreMsg          ctermfg=white       ctermbg=NONE        cterm=NONE
 hi ModeMsg          ctermfg=white       ctermbg=NONE        cterm=NONE
 hi LineNr           ctermfg=237         ctermbg=NONE        cterm=NONE
@@ -72,9 +72,9 @@ hi StatusLine       ctermfg=232         ctermbg=244         cterm=NONE
 hi StatusLineNC     ctermfg=244         ctermbg=235         cterm=NONE
 hi VertSplit        ctermfg=235         ctermbg=235         cterm=NONE
 hi Title            ctermfg=white       ctermbg=NONE        cterm=NONE
-hi Visual           ctermfg=white       ctermbg=NONE        cterm=NONE
-hi VisualNOS        ctermfg=white       ctermbg=NONE        cterm=NONE
-hi WarningMsg       ctermfg=white       ctermbg=NONE        cterm=NONE
+hi Visual           ctermfg=NONE        ctermbg=235         cterm=NONE
+hi VisualNOS        ctermfg=NONE        ctermbg=235         cterm=NONE
+hi WarningMsg       ctermfg=232         ctermbg=197         cterm=NONE
 hi WildMenu         ctermfg=white       ctermbg=NONE        cterm=NONE
 hi Folded           ctermfg=white       ctermbg=NONE        cterm=NONE
 hi FoldColumn       ctermfg=white       ctermbg=NONE        cterm=NONE
