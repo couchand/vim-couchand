@@ -51,7 +51,7 @@ hi Type             ctermfg=63          ctermbg=NONE        cterm=NONE
 
 hi Ignore           ctermfg=white       ctermbg=NONE        cterm=NONE
 hi Error            ctermfg=232         ctermbg=197         cterm=bold
-hi Todo             ctermfg=white       ctermbg=NONE        cterm=NONE
+hi Todo             ctermfg=232         ctermbg=197         cterm=NONE
 
 hi MatchParen       ctermfg=237         ctermbg=241         cterm=NONE
 hi Underlined       ctermfg=white       ctermbg=NONE        cterm=NONE
