@@ -61,7 +61,7 @@ hi SpecialKey       ctermfg=white       ctermbg=NONE        cterm=NONE
 hi NonText          ctermfg=white       ctermbg=NONE        cterm=NONE
 hi Directory        ctermfg=white       ctermbg=NONE        cterm=NONE
 hi ErrorMsg         ctermfg=white       ctermbg=NONE        cterm=NONE
-hi IncSearch        ctermfg=NONE        ctermbg=174         cterm=NONE
+hi IncSearch        ctermfg=NONE        ctermbg=87          cterm=NONE
 hi Search           ctermfg=NONE        ctermbg=174         cterm=NONE
 hi MoreMsg          ctermfg=white       ctermbg=NONE        cterm=NONE
 hi ModeMsg          ctermfg=white       ctermbg=NONE        cterm=NONE
