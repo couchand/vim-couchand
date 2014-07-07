@@ -92,9 +92,9 @@ hi Pmenu            ctermfg=white       ctermbg=NONE        cterm=NONE
 hi PmenuSel         ctermfg=white       ctermbg=NONE        cterm=NONE
 hi PmenuSbar        ctermfg=white       ctermbg=NONE        cterm=NONE
 hi PmenuThumb       ctermfg=white       ctermbg=NONE        cterm=NONE
-hi TabLine          ctermfg=white       ctermbg=NONE        cterm=NONE
-hi TabLineSel       ctermfg=white       ctermbg=NONE        cterm=NONE
-hi TabLineFill      ctermfg=white       ctermbg=NONE        cterm=NONE
+hi TabLine          ctermfg=53          ctermbg=NONE        cterm=NONE
+hi TabLineSel       ctermfg=55          ctermbg=NONE        cterm=NONE
+hi TabLineFill      ctermfg=NONE        ctermbg=NONE        cterm=NONE
 hi CursorColumn     ctermfg=NONE        ctermbg=235         cterm=NONE
 hi CursorLine       ctermfg=NONE        ctermbg=235         cterm=NONE
 hi ColorColumn      ctermfg=NONE        ctermbg=52          cterm=NONE
